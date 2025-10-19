@@ -1,3 +1,4 @@
+# About This Mac Emulator
 
 # App Preview
 <img width="473" height="703" alt="截圖 2025-10-19 10 52 56" src="https://github.com/user-attachments/assets/92ebcdba-8d92-4a1e-9907-eb29a361a969" />
