@@ -1,9 +1,14 @@
+
 # App Preview
 <img width="473" height="703" alt="截圖 2025-10-19 10 52 56" src="https://github.com/user-attachments/assets/92ebcdba-8d92-4a1e-9907-eb29a361a969" />
+
 # Edit Serial Number
+
 <img width="1399" height="857" alt="截圖 2025-10-19 10 59 23" src="https://github.com/user-attachments/assets/7b675711-4cab-46ba-912e-686ba6ffd5d4" />
 At line 53
+
 # Translation
+
 line 35-53
                     Text("晶片=Chip")
                         .fontWeight(.bold)
